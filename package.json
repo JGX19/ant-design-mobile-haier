@@ -1,5 +1,5 @@
 {
-  "name": "antd-mobile",
+  "name": "antd-mobile-haier",
   "version": "5.0.0-rc.12",
   "scripts": {
     "start": "dumi dev",
@@ -118,7 +118,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ant-design/ant-design-mobile.git",
+    "url": "git+https://github.com/JGX19/ant-design-mobile-haier.git",
     "branch": "master",
     "platform": "github"
   }

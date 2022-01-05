@@ -1,3 +1,8 @@
+# 1.0.0
+
+- 修改slider刻度限制
+
+
 <img src="https://gw.alipayobjects.com/mdn/rms_ee68a8/afts/img/A*1Ps5R4QVn28AAAAAAAAAAAAAARQnAQ" alt="logo" width="100%" />
 
 ![npm (tag)](https://img.shields.io/npm/v/antd-mobile/next)

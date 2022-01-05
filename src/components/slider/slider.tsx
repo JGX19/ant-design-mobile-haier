@@ -93,13 +93,13 @@ export const Slider: FC<SliderProps> = p => {
     let value = min
 
     // 显示了刻度点，就只能移动到点上
-    if (pointList.length) {
-      value = nearest(pointList, newPosition)
-    } else {
+    // if (pointList.length) {
+    //   value = nearest(pointList, newPosition)
+    // } else {
       const lengthPerStep = 100 / ((max - min) / step)
       const steps = Math.round(newPosition / lengthPerStep)
       value = steps * lengthPerStep * (max - min) * 0.01 + min
-    }
+    // }
     return value
   }
 
