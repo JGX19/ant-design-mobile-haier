@@ -2,6 +2,10 @@
 
 - 修改slider刻度限制
 
+# 1.0.1
+
+- 修改备注格式
+
 
 <img src="https://gw.alipayobjects.com/mdn/rms_ee68a8/afts/img/A*1Ps5R4QVn28AAAAAAAAAAAAAARQnAQ" alt="logo" width="100%" />
 
@@ -15,9 +19,9 @@
 ![GitHub](https://img.shields.io/github/license/ant-design/ant-design-mobile)
 
 ```bash
-$ npm install --save antd-mobile@next
+$ npm install --save antd-mobile-haier@next
 # or
-$ yarn add antd-mobile@next
+$ yarn add antd-mobile-haier@next
 ```
 
 - **Fast**: It is carefully optimized for harsh scenes, without configuration, you can have the best package size and ultimate performance.
